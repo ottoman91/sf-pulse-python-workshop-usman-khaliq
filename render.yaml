@@ -1,5 +1,5 @@
 projects:
-  - name: sf-pulse-python
+  - name: sf-pulse-usman
     environments:
       - name: production
         databases:
